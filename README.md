@@ -8,7 +8,7 @@ http://www.siia.net/Divisions/FISD-Financial-Information-Services-Association). 
 The primary goals of establishing alternative data standards is to:
 
 * lower cost for the benefit of end clients 
-* facilite growth of the industry
+* facilitate growth of the industry
 * drive adoption of alternative data in the investment process
 
 Specifically this will be achieved by:
@@ -82,4 +82,4 @@ TBD. Covering:
 * how often to meet?
 * who works on what?
 * voting on best practices?
-* issue tracking and enhacement requests?
+* issue tracking and enhancement requests?
