@@ -1,7 +1,7 @@
-# Alternative Investment Data Working Group
+# Alternative Investment Data Council
 
-Part of [FISD](
-http://www.siia.net/Divisions/FISD-Financial-Information-Services-Association), the Alternative Investment Data Working Group (AIDWG) is focused on establishing best practices and standards for alternative investment data.
+The AIDC is a working group within the [FISD](
+http://www.siia.net/Divisions/FISD-Financial-Information-Services-Association). We are focused on establishing best practices and standards for the delivery of alternative data to the investment industry.
 
 ## Goals
 
