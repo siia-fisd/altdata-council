@@ -53,12 +53,12 @@ Initially the working group will consist of mostly buy-side institutions. Member
 
 To achieve the goals, the following should be available:
 
-* Vendor best practices: guiding vendors on how to best deliver data
-* Documentation standards: consistent data documentation, similar to [API Blueprint](https://github.com/apiaryio/api-blueprint/blob/master/API%20Blueprint%20Specification.md#i-api-blueprint-language-1)
-* Data definition language: covering data schema, file attributes and quality tests
-* Issue tracker: transparent tracking of problems and improvement requests
-* Knowledge base: containing answers/solutions (including code) to commonly asked questions/problems
-* Authentication provider: defining data access permissions and providing authentication
+* **Vendor best practices**: guiding vendors on how to best deliver data
+* **Documentation standards**: consistent data documentation, similar to [API Blueprint](https://github.com/apiaryio/api-blueprint/blob/master/API%20Blueprint%20Specification.md#i-api-blueprint-language-1)
+* **Data definition language**: covering data schema, file attributes and quality tests
+* **Issue tracker**: transparent tracking of problems and improvement requests
+* **Knowledge base**: containing answers/solutions (including code) to commonly asked questions/problems
+* **Authentication provider**: defining data access permissions and providing authentication
 
 ## Tools
 
