@@ -1,14 +1,23 @@
-# Alternative Investment Data Standards
+# Alternative Investment Data Working Group
+
+Part of [FISD](
+http://www.siia.net/Divisions/FISD-Financial-Information-Services-Association), the Alternative Investment Data Working Group (AIDWG) is focused on establishing best practices and standards for alternative investment data.
 
 ## Goals
 
-The primary goal of establishing alternative data standards is to help drive the adoption of alternative data in the investment process and facilite growth of the industry as well as lowering cost for the benefit of end clients. Specifically this will be achieved by:
+The primary goals of establishing alternative data standards is to:
 
+* lower cost for the benefit of end clients 
+* facilite growth of the industry
+* drive adoption of alternative data in the investment process
+
+Specifically this will be achieved by:
+
+* improving data documentation
+* raising data quality standards
 * unifying data pipeline management
 * reduce time spent on data delivery and ingestion
-* secure permissions management and authentication
-* raising data quality standards
-* increasing knowledge transfer between participants
+* easier permissions management and authentication
 
 ## Principles
 
@@ -18,10 +27,11 @@ The industry is best served by having standards which are:
 * community enabled, instead of relying on a single party
 * developer friendly, instead of primarily for non-technical users
 
-## Who benefits and how
+## Who benefits and how?
 
 From data consumer perspective:
 
+* investors: reduced cost for investment management services
 * fundamental analyst: faster data insights, automate tasks, easier slice+dice
 * fundamental pms: increased idea generation, scalability, data roi
 * quantitative analyst / data scientist: better data quality, easier to assess predictive value and build strategies
@@ -35,34 +45,41 @@ From data vendor perspective:
 * product manager: better user experience, usage analytics
 * engineering: easier to build data pipelines, less infrastructure to manage
 
-## Architecture
+## Who participates?
 
-To achieve the standards goals, the following technology should be available to participants:
+Initially the working group will consist of mostly buy-side institutions. Membership will then be extended to sell-side institutions and data vendors.
 
-* Meta database: covering file attributes, column definitions and quality tests
+## What do the standards cover?
+
+To achieve the goals, the following should be available:
+
+* Vendor best practices: guiding vendors on how to best deliver data
+* Documentation standards: consistent data documentation, similar to [API Blueprint](https://github.com/apiaryio/api-blueprint/blob/master/API%20Blueprint%20Specification.md#i-api-blueprint-language-1)
+* Data definition language: covering data schema, file attributes and quality tests
+* Issue tracker: transparent tracking of problems and improvement requests
+* Knowledge base: containing answers/solutions (including code) to commonly asked questions/problems
 * Authentication provider: defining data access permissions and providing authentication
-* Knowledge base: containing answers/soutions to commonly asked questions/problems
 
-Additionally, there should be open source tools for:
+## Tools
 
+There should be open source tools for:
+
+* documentation creation and testing
 * data push and pull to/from various data sources
-* data ingestion of varied data
+* data ingestion of varied data compliant with standards DDL
 * data quality testing
-* data joining
+* data joining across vendors
+* permissions management and auth
 
-## Data Vendor Best Practices
+## Roadmap
 
-* enable data download without having to change firewall and proxy settings
-	* enable http redirect
-* provide data in machine readable format
-* provide meta data that defines how data should be ingested
-	* parquet files with built in schema
-	* if schema changes, show which columns were added/removed/renamed
-* store all historic predictions for point-in-time analysis
-	* at minimum don't overwrite old data with current data
-	* if methodology changes, keep old methodolgy data and provide
-* provide pre-cleaned test data
-* provide replicable case studies
+TBD
 
-[look at fds docs]
+## Procedures
 
+TBD. Covering:
+
+* how often to meet?
+* who works on what?
+* voting on best practices?
+* issue tracking and enhacement requests?

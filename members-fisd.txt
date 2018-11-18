@@ -1,0 +1,218 @@
+3d innovations ltd.
+Aberdeen Standard Investments
+Accenture
+Activ Financial Systems, Inc.
+AM Best Rating Services, Inc
+Amazon Web Services, Inc. (AWS)
+Amman Stock Exchange
+APG Asset Management
+AQR Capital Management, LLC
+Arcontech Group PLC
+Asset Control Systems, Inc.
+Atradia Consulting
+Australian Securities Exchange
+Aviva Investors Global Services Ltd
+Axon Financial Systems
+B3 S.A. – Brasil, Bolsa, Balcão
+Bank of America Merrill Lynch
+Barclays
+BGC Market Data
+BlackRock, Inc.
+Bloomberg L.P.
+BMO Bank of Montreal
+BNY Mellon
+Boerse Stuttgart GmbH
+Bolsa de Valores de Lima S.A.A
+Bolsas y Mercados Argentinos (BYMA)
+Bolsas y Mercados Españoles (BME)
+Boursa Kuwait
+Bridgewater Associates, LP
+Bronze Drum Consulting
+Brown Brothers Harriman & Co.
+BST America, LLC
+BT
+Budapest Stock Exchange
+Bursa Malaysia Berhad
+Burton-Taylor International Consulting LLC
+Campbell & Company LP
+Canada Pension Plan Investment Board (CPPIB)
+Canadian Securities Exchange
+Capital Group Companies
+Casablanca Stock Exchange
+Cboe Global Markets
+Center for Research in Security Prices (CRSP)
+CenturyLink
+Chain IQ Group AG
+Charles Schwab & Co., Inc.
+Chicago Trading Company
+China Foreign Exchange Trade System
+China Investment Information Services. Ltd.
+Chi-X Australia
+CIBC World Markets
+Citi
+CJC Ltd
+Clearnet/The Morris Group
+CLS Data Services
+CME Group
+Colt Technology Services Group Limited
+Compliance Solutions Strategies Holdings Inc
+Credit Suisse
+Crux Informatics
+Danske Bank A/S
+DataBP
+DataCompliance LLC
+Dataminr
+DBRS
+DBS Bank Ltd.
+Deloitte and Touche LLP
+Deutsche Bank AG
+Deutsche Boerse AG
+Devexperts Inc.
+DTCC
+Dun & Bradstreet
+E*TRADE Financial
+Eaton Vance Management
+Economic Ventures, LLC
+Egan-Jones Ratings
+Egypt for Information Dissemination (EGID)
+Enyx
+ETF Global
+Euromoney TRADEDATA
+Euronext
+European Money Markets Institute
+EventVestor
+Exchange Audits
+Exchange Data International Ltd.
+Expand Research LLP
+FactSet
+Federated Investors, Inc.
+Fidelity Investments
+Fidessa
+FINRA
+Fitch Group Corporation
+Fixnetix
+Franklin Templeton Investments
+Goldman Sachs & Co.
+GraphCall
+Greenwich Associates
+Guggenheim Partners LLC
+HR Ratings de Mexico, S.A. de C.V.
+HSBC Holdings plc
+ICBC Standard Bank Plc
+ICE Data Services
+Infront
+Interactive Brokers LLC
+IPC Systems, Inc.
+IRESS Limited
+ITG, Inc.
+ITRS
+JCV Investment Systems, LLC
+Jefferies LLC
+Johannesburg Stock Exchange
+Jordan & Jordan
+JPMorgan Chase & Co.
+Kazakhstan Stock Exchange JSC
+Keysight
+Korea Exchange
+Kroll Bond Rating Agency
+Layer 3 Technologies
+Legal & General Investment Management
+London Stock Exchange
+Lord Abbett & Co. LLC
+Luxembourg Stock Exchange
+Macquarie Group
+Manufacturers Life Insurance Company (Manulife)
+Market Data Company
+Market Data Insights LLC
+Market Data Management Solutions Corp. (MDMS)
+MarketAxess Corporation
+Marketdata Network Limited
+MarketsTech LLC
+MDSL
+MDX Technology
+Metamako LP
+MetLife, Inc.
+MFS Investment Management
+Millennium Partners
+Millistream Market Data AB
+MOEX
+Mondo Visione Ltd.
+Moody's Analytics
+Moody's Corporation
+Moonlight Media Ltd.
+Morgan Stanley
+Morningstar Real-Time Data
+Morningstar, Inc.
+Nairobi Securities Exchange
+Nasdaq
+National Australia Bank (NAB)
+National Commodity & Derivatives Exchange Limited
+Neuberger Berman
+NEX Group plc
+Nigerian Stock Exchange
+Nomura
+Nordea Bank AB
+Northern Trust Company
+NovaSparks
+NP RTS Group
+NZX (New Zealand Exchange Ltd)
+Omega Securities Inc.
+OpenFin
+OpenMAMA
+Oslo Børs ASA
+OTC Markets Group, Inc.
+Prosparency LLC
+Putman Media
+Qatar Exchange
+QCSS, Inc.
+Rabobank
+RBC Capital Markets
+Reserve Bank of Australia
+RIMES Technologies
+Robeco
+S&P Global Inc.
+Saxo Bank A/S
+Schonfeld Strategic
+Scotiabank
+SEI Investments
+Shenzhen Stock Exchange
+Sinara Consultants Ltd.
+Singapore Exchange Limited
+SIPUG
+SIX EXFEED Ltd.
+SIX Financial Information
+Smart Insider
+Smartstream
+Societe Generale
+Solace
+Startupbootcamp FinTech
+State Street Bank & Trust
+Stock Exchange of Thailand
+Susquehanna International Group
+TABB Group
+Taura
+TD Ameritrade
+Tee Williams Associates
+Telstra
+Thomson Reuters
+TickSmith Corp.
+TKP Investments
+TMX Group
+Tokyo Stock Exchange, Inc.
+Tower Hill Advisors
+TP ICAP Data & Analytics
+Tradition
+TRG Screen
+UBS Investment Bank
+Union Bancaire Privee,UBP SA
+USAM Group Inc.
+Vela
+Velocimetrics
+Virtual Cove
+Voya Financial
+WatersTechnology
+Web Financial Group
+Wells Fargo Bank
+West Highland Support Services
+Winton Group
+Xignite, Inc.
