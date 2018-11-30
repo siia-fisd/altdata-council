@@ -88,3 +88,7 @@ TBD. Covering:
 * who works on what?
 * contributing, [RFC](https://github.com/apiaryio/api-blueprint-rfcs/blob/master/rfcs/0001-rfc-process.md), voting?
 * [issue tracking](https://guides.github.com/features/issues/) and [enhancement requests](https://github.com/django/deps/blob/master/final/0001-dep-process.rst)?
+
+## Disclaimer
+
+These materials, and any other information or data conveyed in connection with these materials, is intended for informational purposes only. Under no circumstances are these materials, or any information or data conveyed in connection with such report, to be considered an offer or solicitation of an offer to buy or sell any securities of any company. Nor may these materials, or any information or data conveyed in connection with such report, be relied on in any manner as legal, tax or investment advice.
