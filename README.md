@@ -72,6 +72,10 @@ To help with adoption of standards, participants benefit from an ecosystem of to
 
 Other examples [Frictionless](https://frictionlessdata.io/software/), [API Blueprint](https://apiblueprint.org/tools.html).
 
+## License and Access
+
+Free and open sourced under the MIT license. The documents will be publicly accessible on Github and in FISD documents.
+
 ## Roadmap
 
 TBD
@@ -82,5 +86,5 @@ TBD. Covering:
 
 * how often to meet?
 * who works on what?
-* contributing, RFCs, voting?
-* issue tracking and enhancement requests?
+* contributing, [RFC](https://github.com/apiaryio/api-blueprint-rfcs/blob/master/rfcs/0001-rfc-process.md), voting?
+* [issue tracking](https://guides.github.com/features/issues/) and [enhancement requests](https://github.com/django/deps/blob/master/final/0001-dep-process.rst)?
