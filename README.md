@@ -1,6 +1,6 @@
-# Alternative Investment Data Council
+# Alternative Data Council
 
-The AIDC is a working group within the [FISD](
+The ADC is a working group within the [FISD](
 http://www.siia.net/Divisions/FISD-Financial-Information-Services-Association). We are focused on establishing best practices and standards for the delivery of alternative data to the investment industry.
 
 ## Goals
