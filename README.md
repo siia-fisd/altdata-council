@@ -55,21 +55,22 @@ To achieve the goals, the following should be available:
 
 * **Vendor best practices**: guiding vendors on how to best deliver data
 * **Documentation standards**: consistent data documentation, similar to [API Blueprint](https://github.com/apiaryio/api-blueprint/blob/master/API%20Blueprint%20Specification.md#i-api-blueprint-language-1)
-* **Data definition language**: covering data schema, file attributes and quality tests
+* **Data definition language**: covering data schema, file attributes and quality tests, similar to [Frictionless](https://frictionlessdata.io/specs/data-package/), [Intake](https://intake.readthedocs.io/en/latest/data-packages.html#defining-a-package), [Quilt](https://docs.quiltdata.com/api/buildyml)
 * **Issue tracker**: transparent tracking of problems and improvement requests
 * **Knowledge base**: containing answers/solutions (including code) to commonly asked questions/problems
 * **Authentication provider**: defining data access permissions and providing authentication
 
 ## Tools
 
-There should be open source tools for:
+To help with adoption of standards, participants benefit from an ecosystem of tools and services compliant with the standards.
 
-* documentation creation and testing
-* data push and pull to/from various data sources
-* data ingestion of varied data compliant with standards DDL
-* data quality testing
-* data joining across vendors
-* permissions management and auth
+* [d6t-pyton](https://github.com/d6t/d6t-python): libraries for data ingestion and data pipes
+* [intake](https://intake.readthedocs.io/en/latest): library for data packages
+* [marbles](https://github.com/twosigma/marbles): library for data unit testing
+* [Crux](https://www.cruxinformatics.com/): managed data operations service
+* [BEAM](https://antenna.bamfunds.com/): common csv data evaluation
+
+Other examples [Frictionless](https://frictionlessdata.io/software/), [API Blueprint](https://apiblueprint.org/tools.html).
 
 ## Roadmap
 
@@ -81,5 +82,5 @@ TBD. Covering:
 
 * how often to meet?
 * who works on what?
-* voting on best practices?
+* contributing, RFCs, voting?
 * issue tracking and enhancement requests?
