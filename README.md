@@ -10,6 +10,7 @@ The primary goals of establishing alternative data standards is to:
 * lower cost for the benefit of end clients 
 * facilitate growth of the industry
 * drive adoption of alternative data in the investment process
+* promote ethical use of data
 
 Specifically this will be achieved by:
 
@@ -18,6 +19,7 @@ Specifically this will be achieved by:
 * unifying data pipeline management
 * reduce time spent on data delivery and ingestion
 * easier permissions management and authentication
+* simplifying vendor due diligence and contracting
 
 ## Principles
 
@@ -38,6 +40,7 @@ From data consumer perspective:
 * quantitative pm: reduced research time, increased data roi
 * data engineering: cheaper, faster and better data pipelines
 * IT: improved security and scalability
+* legal & compliance: improved due diligence, faster workflow
 
 From data vendor perspective:
 
@@ -54,6 +57,7 @@ Initially the working group will consist of mostly buy-side institutions. Member
 To achieve the goals, the following should be available:
 
 * **Vendor best practices**: guiding vendors on how to best deliver data
+* **Vendor questionaires and contracts**: shared semi-standardized due diligence questionaires and contracts, similar to [AIMA questionaires](https://www.aima.org/sound-practices/due-diligence-questionnaires.html)
 * **Documentation standards**: consistent data documentation, similar to [API Blueprint](https://github.com/apiaryio/api-blueprint/blob/master/API%20Blueprint%20Specification.md#i-api-blueprint-language-1)
 * **Data definition language**: covering data schema, file attributes and quality tests, similar to [Frictionless](https://frictionlessdata.io/specs/data-package/), [Intake](https://intake.readthedocs.io/en/latest/data-packages.html#defining-a-package), [Quilt](https://docs.quiltdata.com/api/buildyml)
 * **Issue tracker**: transparent tracking of problems and improvement requests
