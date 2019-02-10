@@ -115,3 +115,7 @@
 ## Submission Process
 
 * How do vendors submit? They likely already submitted to multiple conferences, websites etc
+
+## Review Process
+
+* How does working group propose changes?
