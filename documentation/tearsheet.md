@@ -1,4 +1,4 @@
-# Dataset Documentation Guidelines - Dataset summary description
+# Dataset Documentation Guidelines - Dataset Tear Sheet
 
 ## Introduction
 
@@ -33,8 +33,9 @@
 
 * Summary
 * Case study
-* Legal & Compliance
 * Methodology
+* Legal & Compliance
+* Backtests
 * Technical information
 
 ### Summary
@@ -44,7 +45,7 @@
 * Description: [100 characters]
 * Value-add: [100 characters]
 * Data source: [100 characters]
-* Category: [select | Other]
+* Category: 
 * Asset class: Equity, commodity, Credit, Rates, FX, Real Estate, Crypto
 * Application: Macro, Sector specific, Stock specific, Risk indicator, Quant signal
 * Coverage: Geographic, Asset Class, breadth
@@ -53,6 +54,7 @@
 * Support: technical, analysts, research
 * History: [Notes: 100 characters]
 * Frequency: observations | delivery 
+* Licensing structure: 
 * Pricing model: flat annual, per user, by AUM
 
 ### Case study
@@ -88,30 +90,9 @@
 * Delivery:
 	* Location: SFTP/FTP,  S3, API, Web UI, email
 	* Format: CSV, Excel, Parquet, JSON
+	* Authentiation: 
 * Historically consistency (Y/N), missing values (Y/N), methodology transparency (Y/N), outliers (Y/N), Mapped to financial instrument (Y/N), back tested (Y/N)
-	* Notes: text
-* Historical size
-* Monthly size growth
-
-
-## Output
-
-* Have a web tool for generation?
-
-### Human Readable
-
-* Templated Formatted PDF
-	* Able to generate own template
-
-### Machine Readable
-
-* JSON format
-* Content follows guidelines
-	* Make sample
-* Hosted where?
-	* Vendor hosted vs central API?
-* Validator?
-
-## Submission Process
-
-* How do vendors submit? They likely already submitted to multiple conferences, websites etc
+	* Notes: 
+* Historical size:
+* Monthly size growth:
+* Outages / recovery: 
