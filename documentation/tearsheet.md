@@ -31,37 +31,38 @@
 
 ### Table Of Contents
 
-* Summary
-* Case study
+* Vendor
+* Data
 * Methodology
-* Legal & Compliance
+* Case Study
 * Backtests
 * Technical information
+* Support information
+* Contract and Trials
+* Legal and compliance
 
-### Summary
+### Vendor
 
-* Vendor name
-* Vendor contact
-* Description: [100 characters]
+* Vendor name:
+* Vendor website:
+* Attach pitch deck
+* Principal vendor contact:
+* Description of vendor:
 * Value-add/uniqueness: [100 characters]
-* Data source: [100 characters]
-* Category: 
-* Asset class: Equity, commodity, Credit, Rates, FX, Real Estate, Crypto
-* Application: Macro, Sector specific, Stock specific, Risk indicator, Quant signal
-* Coverage: Geographic, Asset Class, breadth
-    * Stock coverage: Very high ( > 500), High ( > 100), Middle ( > 20), Low (<=20)
-* Delivery: Raw, semi processed, processed, trading signal, alerts, GUI, reports, research analysts
-* Support: technical, analysts, research
-* History: [Notes: 100 characters]
-* Frequency: observations | delivery 
-* Licensing structure: 
-* Pricing model: flat annual, per user, by AUM
 
-### Case study
+### Data
 
-* Summarize common use cases
-* 1 detailed case study
-* List of additional case studies
+* Data Description: [100 characters]
+* Asset class (circle one): Equity, commodity, Credit, Rates, FX, Real Estate, Crypto
+* Geographic coverage: (country or region)
+* Sector Coverage (use GICs L2/3):
+* Stock coverage: give a number
+* Cap coverage: (small, mid, large)
+* Style(dividend, earnings, emerging, equity, growth, leverage, liquidity, momentum, other, profit, quality, reversal, sentiment, size, smallcap, value, volatility, yield)
+* Frequency: observations | delivery
+* Delays: collection vs publication
+* History of data: (How many years back does it go + free text for notes)
+* Quality metrics: (eg panel size, number of sdks)
 
 ### Methodology
 
@@ -70,18 +71,16 @@
     * Ticker mapping?
     * Fiscal quarter mapping?
     * Taxonomy? Eg sector / country / kpi mapping?
+* Point in Time: true or backfilled?
 * Forecasts made?
 
-### Legal & Compliance
+### Case study
 
-* Trial policy: length? paid? NDA required?
-* PII level
-* Indemnification
-* FISD standard contract compliant?
-* What else?
+* Summarize common use cases
+* 1 detailed case study (can be attached)
 
 ### Backtests 
-
+We tend to like to do our own so I don't think this is something we want
 * Available: yes/no
 * Type: kpis, forecasts, trading
 * Methodology?
@@ -90,11 +89,35 @@
 ### Technical 
 
 * Delivery:
-    * Location: SFTP/FTP,  S3, API, Web UI, email
-    * Format: CSV, Excel, Parquet, JSON
-    * Authentiation: 
-* Historically consistency (Y/N), missing values (Y/N), methodology transparency (Y/N), outliers (Y/N), Mapped to financial instrument (Y/N), back tested (Y/N)
-    * Notes: 
-* Historical size:
+    * Location: SFTP/FTP,  S3, GCP, Azzure, API, Web UI, email, if API, state type of API (REST/POST etc)
+    * Format: CSV, TSV, Excel, Parquet, JSON, pdf, other (state)
+    * State of data on delivery: Raw, semi processed, processed, trading signal, alerts, GUI, reports, research analysts reports 
+* Full size including history:
 * Monthly size growth:
-* Outages / recovery: Any delivery failures? How were they addressed?
+
+### Support
+* support hours: 
+* support timezones:
+* support contact via email only or phone too?:
+* Type of support provided: technical/business/investor
+* SLA for delivery issues:
+* SLA for outage:
+* SLA for quality metrics:
+
+### Contract and Trials
+
+* Licensing structure: 
+* Pricing model: flat annual, per user, by AUM
+* Contract lengths
+* Trial cost?:Y/N if Y how much?
+* Trial time period: (1 week, 1 month, 2 months, 3 months, flexible)
+* Other trial notes:
+
+### Legal & Compliance
+
+* NDA required? 
+* PII level
+* MNPI level
+* Indemnification
+* FISD standard contract compliant?
+* What else?
