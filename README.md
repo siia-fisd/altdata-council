@@ -69,12 +69,13 @@ To achieve the goals, the following should be available:
 To help with adoption of standards, participants benefit from an ecosystem of tools and services compliant with the standards.
 
 * [d6t-pyton](https://github.com/d6t/d6t-python): libraries for data ingestion and data pipes
+
+Other related tools include
 * [intake](https://intake.readthedocs.io/en/latest): library for data packages
 * [marbles](https://github.com/twosigma/marbles): library for data unit testing
-* [Crux](https://www.cruxinformatics.com/): managed data operations service
 * [BEAM](https://antenna.bamfunds.com/): common csv data evaluation
-
-Other examples [Frictionless](https://frictionlessdata.io/software/), [API Blueprint](https://apiblueprint.org/tools.html).
+* [Frictionless](https://frictionlessdata.io/software/): generic schema standards
+* [API Blueprint](https://apiblueprint.org/tools.html): REST API documentation standards
 
 ## License and Access
 
