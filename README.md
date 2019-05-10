@@ -68,7 +68,7 @@ To achieve the goals, the following should be available:
 
 To help with adoption of standards, participants benefit from an ecosystem of tools and services compliant with the standards.
 
-* [d6t-pyton](https://github.com/d6t/d6t-python): libraries for data ingestion and data pipes
+* [Databolt Pipe](https://www.databolt.tech/index-pipe-vendors.html): web tools and python libraries for distributing datasets
 
 Other related tools include
 * [intake](https://intake.readthedocs.io/en/latest): library for data packages
@@ -77,22 +77,13 @@ Other related tools include
 * [Frictionless](https://frictionlessdata.io/software/): generic schema standards
 * [API Blueprint](https://apiblueprint.org/tools.html): REST API documentation standards
 
+## Contact
+
+Tracey Shumpert <traceyShumpert-at-siia.net>
+
 ## License and Access
 
 Free and open sourced under the MIT license. The documents will be publicly accessible on Github and in FISD documents.
-
-## Roadmap
-
-TBD
-
-## Procedures
-
-TBD. Covering:
-
-* how often to meet?
-* who works on what?
-* contributing, [RFC](https://github.com/apiaryio/api-blueprint-rfcs/blob/master/rfcs/0001-rfc-process.md), voting?
-* [issue tracking](https://guides.github.com/features/issues/) and [enhancement requests](https://github.com/django/deps/blob/master/final/0001-dep-process.rst)?
 
 ## Disclaimer
 
