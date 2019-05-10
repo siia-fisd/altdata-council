@@ -3,6 +3,11 @@
 The ADC is a working group within the [FISD](
 http://www.siia.net/Divisions/FISD-Financial-Information-Services-Association). We are focused on establishing best practices and standards for the delivery of alternative data to the investment industry.
 
+## Publications
+
+[Tearsheet](
+https://github.com/siia-fisd/altdata-council/blob/master/documentation/tearsheet.md) (working draft)
+
 ## Goals
 
 The primary goals of establishing alternative data standards is to:
