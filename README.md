@@ -7,6 +7,7 @@ http://www.siia.net/Divisions/FISD-Financial-Information-Services-Association). 
 
 [Tearsheet](
 https://github.com/siia-fisd/altdata-council/blob/master/documentation/tearsheet.md) (working draft)
+[Data Dictionary](https://github.com/siia-fisd/altdata-council/blob/master/documentation/data%20dictionary.xlsx) (early draft)
 
 ## Goals
 
