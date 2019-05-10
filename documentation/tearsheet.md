@@ -45,15 +45,17 @@
 
 * Vendor name:
 * Vendor website:
-* Attach pitch deck
 * Principal vendor contact:
 * Description of vendor:
 * Value-add/uniqueness: [100 characters]
+   * Attach pitch deck
 
 ### Data
 
 * Data Description: [100 characters]
-* Asset class (circle one): Equity, commodity, Credit, Rates, FX, Real Estate, Crypto
+* Metrics provided: 
+    * Attach data dictionary if possible
+ * Asset class (circle one): Equity, commodity, Credit, Rates, FX, Real Estate, Crypto
 * Geographic coverage: (country or region)
 * Sector Coverage (use GICs L2/3):
 * Stock coverage: give a number
