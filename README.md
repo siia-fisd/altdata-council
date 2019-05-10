@@ -77,6 +77,8 @@ Other related tools include
 * [Frictionless](https://frictionlessdata.io/software/): generic schema standards
 * [API Blueprint](https://apiblueprint.org/tools.html): REST API documentation standards
 
+If you like to be included in the list make a pull request or contact us.
+
 ## Contact
 
 Tracey Shumpert <traceyShumpert-at-siia.net>
