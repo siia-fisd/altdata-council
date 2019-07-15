@@ -11,21 +11,6 @@ https://github.com/siia-fisd/altdata-council/blob/master/documentation/tearsheet
 https://github.com/siia-fisd/altdata-council/blob/master/documentation/tearsheet-buyer.md) (working draft)  
 [Data Dictionary](https://github.com/siia-fisd/altdata-council/blob/master/documentation/data%20dictionary.xlsx) (early draft)
 
-## Tools
-
-To help with adoption of standards, participants benefit from an ecosystem of tools and services compliant with the standards.
-
-* [Databolt Pipe](https://www.databolt.tech/index-pipe-vendors.html): web tools and python libraries for distributing datasets
-
-Other related tools include
-* [BEAM](https://antenna.bamfunds.com/): common csv data evaluation
-* [Frictionless](https://frictionlessdata.io/software/): generic schema standards
-* [API Blueprint](https://apiblueprint.org/tools.html): REST API documentation standards
-* [marbles](https://github.com/twosigma/marbles): library for data unit testing
-* [intake](https://intake.readthedocs.io/en/latest): library for data packages
-
-If you like to be included in the list make a pull request or contact us.
-
 ## Goals
 
 The primary goals of establishing alternative data standards is to:
@@ -86,6 +71,21 @@ To achieve the goals, the following should be available:
 * **Issue tracker**: transparent tracking of problems and improvement requests
 * **Knowledge base**: containing answers/solutions (including code) to commonly asked questions/problems
 * **Authentication provider**: defining data access permissions and providing authentication
+
+## Tools
+
+To help with adoption of standards, participants benefit from an ecosystem of tools and services compliant with the standards. If you like to be included in the list make a pull request or contact us.
+
+Tools include:
+* [Adaptive](https://www.adaptivemgmt.com/): alternative data platform
+* [Crux](https://www.cruxinformatics.com/): data supply chain management
+* [Databolt Pipe](https://www.databolt.tech/index-pipe-vendors.html): turnkey infrastructure distributing datasets
+* [BEAM](https://antenna.bamfunds.com/): common csv data evaluation
+* [Frictionless](https://frictionlessdata.io/software/): generic schema standards
+* [API Blueprint](https://apiblueprint.org/tools.html): REST API documentation standards
+* [marbles](https://github.com/twosigma/marbles): library for data unit testing
+* [intake](https://intake.readthedocs.io/en/latest): library for data packages
+
 
 ## Contact
 
