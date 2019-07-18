@@ -70,7 +70,8 @@
 
 * How is data collected?
 * How is data processed?
-    * Ticker mapping?
+    * Ticker/entity mapping?
+            * Security identifiers mapped to? (ISIN/CUSIP/SEDOL/Tickers)
     * Fiscal quarter mapping?
     * Taxonomy? Eg sector / country / kpi mapping?
 * Point in Time: true or backfilled?
