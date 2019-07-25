@@ -1,0 +1,26 @@
+Common company master questions/requests:
+
+Requests:
+Companies with different securities should be easy to tell apart (ex. common vs preferred share classes or Alphabet A vs B vs C)\
+Security primary exchange for companies that trade in multiple locations should be clear and change through time as needed (ex. RD Shell should have GBR as primary or Alibaba as USA even though its ADR due to low volume on HKG exchange)
+Country assignment by company should match MSCI if possible
+When a company changes its primary business the GICS sector change should be clear (IBM)
+Should have an inactive date when a company goes out of business
+
+Questions:
+A company's most liquid security is an ADR - how do you handle? (Alibaba)
+How do you treat preferred shares where some are more like equity and others are more like bonds?
+How do you calculate market cap when some ISINs shouldnt be included in market cap (i.e. ADRs for AAPL)?
+How do you get the right EPS and P/E in the case where a company has a big non public share class?
+How do you handle a merger of equals?
+While many EM companies often trade USA/GBR the headquarters should still be clear and identified appropriately as the EM country
+Incorporation in tax havens or other domcile tricks for tax purposes shouldn't affect the country's appropriate domicile (Schlumberger is a French company officially incorporated in Curacao but should be listed as FRA domiciled)
+If a trades outside its home country how does the FX impact the total return you calculate?
+Companies have multiple share classes which trade in different countries. Getteing bvack to a base currency to do market cap will introduce FX effects. How do you handle?
+How do you deal with companies priced in different securities through time (pre and post euro)?
+How do you deal with a company that starts/stops paying a dividend?
+How do you deal with market cap through new share issuance?
+How do you deal with a company that goes public -> private -> public (Kraft)?
+Company going through bankruptsy - how do you handle one security going to zero and a new security being created?
+How do you deal with dividend yield if there are two different share classes with two different dividends?
+When company changes dividend when does that affect the dividend yield?
