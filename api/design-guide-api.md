@@ -5,6 +5,11 @@ This guide provides best practices for designing delightful data REST APIs. It i
 
 It is aimed at data providers who want to delight their data consumer with a user-friendly interface to consume data such that their users can extract value from the information as efficiently as possible. The primary audience are api developers but this guide is also relevant for sales, product and legal & compliance teams.
 
+## Who you should read this guide
+
+* data providers: developers, product managers, support teams  
+* data consumers: data engineers, data scientists  
+ 
 ## Why you should read this guide
 
 This guide aims to address important user pain points and business goals.
@@ -20,9 +25,9 @@ This guide aims to address important user pain points and business goals.
     * provide user-friendly guidelines and tools to build and interact with data apis 
     * improve documentation and getting started guides
 
-## Why you should/should not build a data APIs
+## Design Considerations
 
-* alternatives: d6tpipe, crux, aws rds, snowlflake
+### Why you should/should not build a data APIs
 
 * Why API vs db/files: a survey a data consumer showed 2/3 prefer having a data dump vs   
 Return data in api vs return file link?  
@@ -39,7 +44,11 @@ Downsides of API
 * users get tracked: creates privacy issues
 * schema-less by default: standard apis return json or csv which are difficult to onboard for consumers
 
-* questions to ask:
+Alternatives to APIs:  
+* d6tpipe, crux, aws rds, snowlflake
+
+### Design questions to ask
+
 Who is the end user?  
     * How want to query? Just filters or also calculations? Types of Queries -- Do you envision sending requests to the API to return data based on some filter (e.g. return Maturity Date for the bond with CUSIP 123456789)?  Or do you envision more complex requests that entail the system doing calculations and returning the results of the calculations?
 
