@@ -33,16 +33,14 @@ This guide aims to address important user pain points and business goals.
 Return data in api vs return file link?  
 
 Benefits of APIs vs db/flat files:  
-* dynamic: Except for price, I would only expect to do incremental calls each day if my end user adds new bonds. Otherwise I would maintain the static data on my server for their existing portfolios.
-* light-weight maintenance: prefer to use API calls to a database that I do not maintain. It is possible that the portfolio will become some large that I will need a copy of your whole database locally
-* tracking access and usage: 
-    * pricing: which user has access to what?
-    * usage: allows usage-based pricing
+* Using API is a more efficient method of maintaining large data sets on the client side. The incremental updates initiated by the client (e.g. portfolio changes) or provider (data corrections and updates) wouldn't require high bandwidth and processing resources typical for bulk file downloads because through API we will be able to retrieve only changed or new data.
+* It is a more effective and flexible method of providing granular access to provider's data assets based on the user profiles or queries vs. producing user profile-based custom files for bulk download.
+* It also offers an accurate, flexible and auditable method of supporting usage-based pricing models and trials.
 
 Downsides of API
-* difficult to download all data
-* users get tracked: creates privacy issues
-* schema-less by default: standard apis return json or csv which are difficult to onboard for consumers
+* API is a less efficient method of downloading large volumes of data than bulk file download (web or ftp-based). It requires more computing and network resources on both server and client sides.
+* API ability to support very granular access may result in revealing user intent or interest which can be undesirable side-effect. 
+* schema-less by default: standard apis return json or csv which are more difficult to onboard for consumers
 
 Alternatives to APIs:  
 * d6tpipe, crux, aws rds, snowlflake
